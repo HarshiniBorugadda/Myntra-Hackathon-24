@@ -42,7 +42,7 @@ if __name__ == "__main__":
     hashtag_url = "https://www.instagram.com/explore/tags/fashion/?hl=en"
     output_csv = "fashion_trends_data.csv"
     cookies = {
-        "sessionid": "67635442072%3APWdc8JX77gWgdU%3A17%3AAYeGEQs6v1gxHqwdKX_amzTNpnvnTnO3Sdj1q9JCmw",
+        "sessionid": "------------------------------",
         # Add other necessary cookies if required
     }
     scrape_and_save_data(hashtag_url, output_csv, cookies)
