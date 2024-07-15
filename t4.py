@@ -4,7 +4,7 @@ import json
 import csv
 # Your cookies from the browser
 cookies = {
-    "sessionid": "67635442072%3AyY31HnkqY2FKGG%3A16%3AAYeVTzdoDpztuPd_1lK29ljYEpsPClo8jGp_thhk-g",
+    "sessionid": "-----------------------------",
     # Include other relevant cookies if needed
 }
 
