@@ -7,7 +7,7 @@ from requests.packages.urllib3.util.retry import Retry
 
 # Function to get fashion news from NewsAPI
 def get_fashion_news():
-    api_key = "08e971d9180e40a4aeffc659de10459b"  # Replace with your actual NewsAPI key
+    api_key = "-----------------"  # Replace with your actual NewsAPI key
     url = f"https://newsapi.org/v2/everything?q=fashion+trends&apiKey={api_key}"
     response = requests.get(url)
     articles = response.json()['articles']
