@@ -67,7 +67,7 @@ By integrating **AI-driven design**, real-time analytics, and **AR technology**,
 
 ## Setup Instructions
 1. Clone the repository:
-`git clone https://github.com/yourusername/Trend-Identification-AI.git`
+`git clone https://github.com/HarshiniBorugadda/Myntra-Hackathon-24.git`
 2. Install the required libraries:
 `pip install -r requirements.txt` 
 3. Run the model:
